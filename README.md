@@ -1,3 +1,5 @@
+👋 Full stack | React / Vue / Golang / Node.js / Solidity
+
 <h1 align="center">👋 Full stack | React / Vue / Golang / Node.js / Solidity</h1>
 <br />
 <h4 align="center">
@@ -5,8 +7,6 @@
 - Built, maintained, and took ownership of a rich ecosystem of services and tools
 - React, troubleshoot and solve operational events 
 </h4>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senior-web-dev0807" alt="senior-web-dev0807" /></a> </p>
 
 - 📫 ** Golang, Node.js, PHP **
 
