@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <b>wwdev0807@gmail.com</b>
+  <b><u>wwdev0807@gmail.com</u></b>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
