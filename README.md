@@ -1,4 +1,4 @@
-<h1 align="center">👋 Full stack | / Golang / Node.js / React / Vue / Solidity</h1>
+<h1 align="center">👋 Full stack | Golang / Node.js / React / Vue / Solidity</h1>
 <br />
 <h4>
   - Delivered value iteratively by building high-quality services and tools
